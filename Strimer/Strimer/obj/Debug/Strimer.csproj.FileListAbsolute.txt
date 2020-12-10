@@ -1,0 +1,29 @@
+D:\Проекты C#\ДЛЯПРИМЕРОВ\Strimer\Strimer\bin\Debug\Strimer.exe.config
+D:\Проекты C#\ДЛЯПРИМЕРОВ\Strimer\Strimer\bin\Debug\Strimer.exe
+D:\Проекты C#\ДЛЯПРИМЕРОВ\Strimer\Strimer\bin\Debug\Strimer.pdb
+D:\Проекты C#\ДЛЯПРИМЕРОВ\Strimer\Strimer\obj\Debug\Strimer.csprojResolveAssemblyReference.cache
+D:\Проекты C#\ДЛЯПРИМЕРОВ\Strimer\Strimer\obj\Debug\Strimer.Form1.resources
+D:\Проекты C#\ДЛЯПРИМЕРОВ\Strimer\Strimer\obj\Debug\Strimer.Properties.Resources.resources
+D:\Проекты C#\ДЛЯПРИМЕРОВ\Strimer\Strimer\obj\Debug\Strimer.csproj.GenerateResource.Cache
+D:\Проекты C#\ДЛЯПРИМЕРОВ\Strimer\Strimer\obj\Debug\Strimer.exe
+D:\Проекты C#\ДЛЯПРИМЕРОВ\Strimer\Strimer\obj\Debug\Strimer.pdb
+C:\Users\User\Desktop\Strimer\Strimer\bin\Debug\Strimer.exe.config
+C:\Users\User\Desktop\Strimer\Strimer\obj\Debug\Strimer.exe
+C:\Users\User\Desktop\Strimer\Strimer\obj\Debug\Strimer.pdb
+C:\Users\User\Desktop\Strimer\Strimer\bin\Debug\Strimer.exe
+C:\Users\User\Desktop\Strimer\Strimer\bin\Debug\Strimer.pdb
+C:\Users\User\Desktop\Strimer\Strimer\obj\Debug\Strimer.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Strimer\Strimer\obj\Debug\Strimer.Form1.resources
+C:\Users\User\Desktop\Strimer\Strimer\obj\Debug\Strimer.Properties.Resources.resources
+C:\Users\User\Desktop\Strimer\Strimer\obj\Debug\Strimer.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Strimer\Strimer\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\Strimer\Strimer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\Strimer\Strimer\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\Strimer\Strimer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\Strimer\Strimer\obj\Debug\Strimer.csproj.ResolveComReference.cache
+D:\Проекты C#\ЗАКАЗЫ\Strimer\Strimer\Strimer\bin\Debug\Strimer.exe.config
+D:\Проекты C#\ЗАКАЗЫ\Strimer\Strimer\Strimer\obj\Debug\Interop.WMPLib.dll
+D:\Проекты C#\ЗАКАЗЫ\Strimer\Strimer\Strimer\obj\Debug\AxInterop.WMPLib.dll
+D:\Проекты C#\ЗАКАЗЫ\Strimer\Strimer\Strimer\obj\Debug\Strimer.csproj.ResolveComReference.cache
+D:\Проекты C#\ЗАКАЗЫ\Strimer\Strimer\Strimer\obj\Debug\Strimer.exe
+D:\Проекты C#\ЗАКАЗЫ\Strimer\Strimer\Strimer\obj\Debug\Strimer.pdb
